@@ -1,4 +1,4 @@
-[![MasterHead](https://images.prismic.io/impactio-blog/2575689d-8dfe-4d7c-b6a7-f33b170231b8_What+Does+a+Dart+and+Flutter+Developer+Do.png?auto=compress,format)](https://rishavchanda.io)
+[!MasterHead](https://images.prismic.io/impactio-blog/2575689d-8dfe-4d7c-b6a7-f33b170231b8_What+Does+a+Dart+and+Flutter+Developer+Do.png?auto=compress,format)
 <h1 align="center">Hi 👋, I'm Mohammad Imran Nawaz</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
