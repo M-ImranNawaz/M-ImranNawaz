@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Fiverr**
+- 🔭 I’m currently working on **Fiverr, upwork**
 
-- 🌱 I’m currently learning **Flutter, Laravel, Nodejs**
+- 🌱 I’m currently learning **Android, iOS, Flutter, Laravel, Nodejs**
 
-- 💬 Ask me about **Android, Windows, Flutter**
+- 💬 Ask me about **Android, iOS, Windows, MacOS, Flutter**
 
 - 📫 How to reach me **imrannawaz288@gmail.com**
 
